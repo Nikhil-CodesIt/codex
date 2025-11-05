@@ -1,4 +1,6 @@
-# codex#include <stdio.h>
+# codex
+
+#include <stdio.h>
 #include <stdlib.h>
 
 int main() {
