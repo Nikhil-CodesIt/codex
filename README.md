@@ -4,7 +4,8 @@
 <br>
 #include <stdlib.h>
 
-int main() {
+int main()
+<br>{
     int pin, enteredPin, choice;
     float balance = 10000.0, deposit, withdraw;
 
